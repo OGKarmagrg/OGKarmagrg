@@ -1,6 +1,7 @@
-## Hi there 👋 I am undergraduate Student From Divya Gyan College of Technology And Management. I am studying Bsc CSIT in Bachelor. I like coding.
+## Hi there 👋 
 
-**OGKarmagrg/OGKarmagrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am undergraduate Student From Divya Gyan College of Technology And Management. I am studying Bsc CSIT in Bachelor. I like coding.
+
 
 Here are some ideas to get you started:
 
